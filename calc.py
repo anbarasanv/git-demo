@@ -9,3 +9,4 @@ def sub(x,y):
 	return x-y
 
 print(add(1,2,4))
+print(sub(75,90))
